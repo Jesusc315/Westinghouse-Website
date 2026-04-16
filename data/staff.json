@@ -3,8 +3,8 @@
     "section": "Administrators",
     "name": "Kyleema A. Norman",
     "role": "Principal",
-    "bio": "RM 114",
-    "photo": "/js/images/content/norman.png",
+    "bio": "RM 144",
+    "photo": "https://www.westinghousehs.org/assets/norman.png",
     "email": "knorman3@schools.nyc.gov",
     "phone": "(555) 123-4567"
   },
@@ -13,7 +13,7 @@
     "name": "Susan Caprio",
     "role": "Assistant Principal",
     "bio": "RM 366",
-    "photo": "https://www.westinghousehs.org/pages/staff_page/images/caprio.png",
+    "photo": "https://www.westinghousehs.org/assets/caprio.png",
     "email": "scaprio@schools.nyc.gov",
     "phone": "(555) 234-5678"
   },
@@ -22,188 +22,612 @@
     "name": "Steven Chung",
     "role": "Assistant Principal",
     "bio": "RM 150",
-    "photo": "https://www.westinghousehs.org/pages/staff_page/images/chung.png",
+    "photo": "https://www.westinghousehs.org/assets/chung.png",
     "email": "schung@schools.nyc.gov",
     "phone": "(555) 345-6789"
   },
   {
-    "section":"Administrators",
-    "name":"Valerie Girard Ward",
-    "role":"Assistant Principal",
-    "bio":"RM 212",
-    "photo":"https://www.westinghousehs.org/pages/staff_page/images/ward.png",
-    "email":"vgirard@schools.nyc.gov",
-    "phone":"(555) 345-6789"
+    "section": "Administrators",
+    "name": "Valerie Girard Ward",
+    "role": "Assistant Principal",
+    "bio": "RM 212",
+    "photo": "https://www.westinghousehs.org/assets/ward.png",
+    "email": "vgirard@schools.nyc.gov",
+    "phone": "(555) 345-6789"
   },
   {
     "section": "Administrators",
     "name": "Nick Pillari",
     "role": "Assistant Principal",
     "bio": "RM 152",
-    "photo": "https://www.westinghousehs.org/pages/staff_page/images/pillari.png",
-    "email":"npillar@schools.nyc.gov",
-    "phone":"(555) 123-4567"
+    "photo": "https://www.westinghousehs.org/assets/pillari.png",
+    "email": "npillar@schools.nyc.gov",
+    "phone": "(555) 123-4567"
   },
   {
-  "section": "Parent Coordinator",
-  "name": "Carolette Rouse",
-  "role": "Parent Coordinator",
-  "bio": "RM 156",
-  "photo": "https://www.westinghousehs.org/pages/staff_page/images/rouse.png",
-  "email": "crouse@schools.nyc.gov",
-  "phone": "(555) 999-9999"
-},
-{
-  "section": "Office Staff",
-  "name": "Dina Auguste",
-  "role": "Attendance",
-  "bio": "RM 162",
-  "photo": "https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email": "daugust3@schools.nyc.gov",
-  "phone": "(555) 999-9999"
-},
-{
-  "section": "Office Staff",
-  "name": "Lakeisha Boynton",
-  "role": "School Aide",
-  "bio": "RM 162",
-  "photo": "https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email": "lboynton@schools.nyc.gov",
-  "phone": "(555) 888-8888"
-},
-{
-  "section": "Office Staff",
-  "name": "Shayna Cohen",
-  "role": "School Aide",
-  "bio": "RM 150",
-  "photo": "https://www.westinghousehs.org/pages/staff_page/images/cohen.png",
-  "email": "scohen80@schools.nyc.gov",
-  "phone": "(555) 888-8888"
-},
-{
-  "section": "Office Staff",
-  "name": "Millie Colon",
-  "role": "Principal/Payroll Secretary",
-  "bio": "RM 146",
-  "photo": "https://www.westinghousehs.org/pages/staff_page/images/colon.png",
-  "email": "acolon14@schools.nyc.gov",
-  "phone": "(555) 888-8888"
-},
-{
-  "section": "Office Staff",
-  "name": "Pamela Gooding",
-  "role": "Pupil Accounting Secretary",
-  "bio": "RM 146",
-  "photo": "https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email": "No email listed",
-  "phone": "(555) 888-8888"
-},
-{
-  "section": "Office Staff",
-  "name": "Lillian Pierce",
-  "role": "School Aide",
-  "bio": "RM 152",
-  "photo": "https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email": "lpierce3@schools.nyc.gov",
-  "phone": "(555) 888-8888"
-},
-{
-  "section": "Office Staff",
-  "name": "Angie Vasiliou",
-  "role": "School Aide",
-  "bio": "RM 142A",
-  "photo": "https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email": "avasiliou@schools.nyc.gov",
-  "phone": "(555) 888-8888"
-},
-{
-  "section": "Office Staff",
-  "name": "Brian Weinstein",
-  "role": "School Aide",
-  "bio": "RM 142A",
-  "photo": "https://www.westinghousehs.org/pages/staff_page/images/Weinstein.png",
-  "email": "bkweinstein@schools.nyc.gov",
-  "phone": "(555) 888-8888"
-},
-{
-  "section":"Dean of Students",
-  "name":"Robin Henry",
-  "role":"Dean",
-  "bio":"RM 160",
-  "photo":"https://www.westinghousehs.org/pages/staff_page/images/rhenry.png",
-  "email":"rhenry6@schools.nyc.gov",
-  "phone":"(555) 777-7777"
-},
-{
-  "section":"Dean of Students",
-  "name":"Kwoon Kong",
-  "role":"Dean",
-  "bio":"RM 203",
-  "photo":"https://www.westinghousehs.org/pages/staff_page/images/kwoon.png",
-  "email":"kkong@schools.nyc.gov",
-  "phone":"(555) 777-7777"
-},
-{
-  "section":"Dean of Students",
-  "name":"Chris Ryan",
-  "role":"Dean",
-  "bio":"RM 203 / 256",
-  "photo":"https://www.westinghousehs.org/pages/staff_page/images/ryan.png",
-  "email":"cryan13@schools.nyc.gov",
-  "phone":"(555) 777-7777"
-},
-{
-  "section":"Building Support Services",
-  "name":"Lou Granato",
-  "role":"Custodian",
-  "bio":"RM 140",
-  "photo":"https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email":"ck580@schools.nyc.gov",
-  "phone":"(555) 666-6666"
-},
-{
-  "section":"Building Support Services",
-  "name":"Rita Hogan",
-  "role":"School Nurse",
-  "bio":"RM 138",
-  "photo":"https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email":"rhogan3@schools.nyc.gov",
-  "phone":"(555) 666-6666"
-},
-{
-  "section":"Building Support Services",
-  "name":"Venus King",
-  "role":"Health Aide",
-  "bio":"RM 138",
-  "photo":"https://www.westinghousehs.org/images/index%20page/gwhs-logo.webp",
-  "email":"vking@schools.nyc.gov",
-  "phone":"(555) 666-6666"
-},
-{
-  "section":"Student Services",
-  "name":"Eleonora Berger",
-  "role":"College Advisor",
-  "bio":"RM 244",
-  "photo":"https://westinghousehs.org/pages/staff_page/images/berger.png",
-  "email":"eberger10@schools.nyc.gov",
-  "phone":"(555) 666-6666"
-},
-{
-  "section":"Student Services",
-  "name":"Everett Kelley",
-  "role":"Work-Based Learning Coordinator",
-  "bio":"RM 366 / 458",
-  "photo":"https://westinghousehs.org/pages/staff_page/images/kelley.png",
-  "email":"ekelley@schools.nyc.gov",
-  "phone":"(555) 666-6666"
-},
-{
-  "section":"Student Services",
-  "name":"Amoy Kirlew-Lynch",
-  "role":"Senior Advisor",
-  "bio":"RM 222B",
-  "photo":"https://westinghousehs.org/pages/staff_page/images/lynch.png",
-  "email":"akirlewlynch@schools.nyc.gov",
-  "phone":"(555) 666-6666"
-}
+    "section": "Parent Coordinator",
+    "name": "Carolette Rouse",
+    "role": "Parent Coordinator",
+    "bio": "RM 156",
+    "photo": "https://www.westinghousehs.org/assets/rouse.png",
+    "email": "crouse@schools.nyc.gov",
+    "phone": "(555) 999-9999"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Dina Auguste",
+    "role": "Attendance",
+    "bio": "RM 162",
+    "photo": "https://www.westinghousehs.org/assets/auguste.png",
+    "email": "daugust3@schools.nyc.gov",
+    "phone": "(555) 999-9999"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Lakeisha Boynton",
+    "role": "Schoole Aide",
+    "bio": "RM 162",
+    "photo": "https://www.westinghousehs.org/assets/boynton.png",
+    "email": "lboynton@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Shayna Cohen",
+    "role": "School Aide",
+    "bio": "RM 150",
+    "photo": "https://www.westinghousehs.org/assets/cohen.png",
+    "email": "scohen80@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Millie Colon",
+    "role": "Principal/Payroll Secretary",
+    "bio": "RM 146",
+    "photo": "https://www.westinghousehs.org/assets/colon.png",
+    "email": "acolon14@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Pamela Gooding",
+    "role": "Pupil Accounting Secretary",
+    "bio": "RM 146",
+    "photo": "https://www.westinghousehs.org/assets/gooding.png",
+    "email": "pgoodings@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Lillian Pierce",
+    "role": "School Aide",
+    "bio": "RM 152",
+    "photo": "https://www.westinghousehs.org/assets/pierce.png",
+    "email": "lpierce3@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Angie Vasiliou",
+    "role": "School Aide",
+    "bio": "RM 142A",
+    "photo": "https://www.westinghousehs.org/assets/vasiliou.png",
+    "email": "avasiliou@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Office Staff",
+    "name": "Brian Weinstein",
+    "role": "School Aide",
+    "bio": "RM 142A",
+    "photo": "https://www.westinghousehs.org/assets/weinstein.png",
+    "email": "bkweinstein@schools.nyc.gov",
+    "phone": "(555) 888-8888"
+  },
+  {
+    "section": "Dean of Students",
+    "name": "Robin Henry",
+    "role": "Dean",
+    "bio": "RM 160",
+    "photo": "https://www.westinghousehs.org/assets/henry.png",
+    "email": "rhenry6@schools.nyc.gov",
+    "phone": "(555) 777-7777"
+  },
+  {
+    "section": "Dean of Students",
+    "name": "Kwoon Kong",
+    "role": "Dean",
+    "bio": "RM 203",
+    "photo": "https://www.westinghousehs.org/assets/kong.png",
+    "email": "kkong@schools.nyc.gov",
+    "phone": "(555) 777-7777"
+  },
+  {
+    "section": "Dean of Students",
+    "name": "Chris Ryan",
+    "role": "Dean",
+    "bio": "RM 203 / 256",
+    "photo": "https://www.westinghousehs.org/assets/ryan.png",
+    "email": "cryan13@schools.nyc.gov",
+    "phone": "(555) 777-7777"
+  },
+  {
+    "section": "Building Support Services",
+    "name": "Lou Granato",
+    "role": "Custodian",
+    "bio": "RM 140",
+    "photo": "https://www.westinghousehs.org/assets/granato.png",
+    "email": "ck580@schools.nyc.gov",
+    "phone": "(555) 666-6666"
+  },
+  {
+    "section": "Building Support Services",
+    "name": "Rita Hogan",
+    "role": "School Nurse",
+    "bio": "RM 138",
+    "photo": "https://www.westinghousehs.org/assets/hogan.png",
+    "email": "rhogan3@schools.nyc.gov",
+    "phone": "(555) 666-6666"
+  },
+  {
+    "section": "Building Support Services",
+    "name": "Venus King",
+    "role": "Health Aide",
+    "bio": "RM 138",
+    "photo": "https://www.westinghousehs.org/assets/king.png",
+    "email": "vking@schools.nyc.gov",
+    "phone": "(555) 666-6666"
+  },
+  {
+    "section": "English Language Arts",
+    "name": "Eleonora Berger",
+    "role": "AP Eng. Lit. / Grammar for Writing",
+    "bio": "RM 244",
+    "photo": "https://www.westinghousehs.org/assets/berger.png",
+    "email": "eberger10@schools.nyc.gov",
+    "phone": "(555) 666-6666"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Everett Kelley",
+    "role": "Electrical",
+    "bio": "RM 366 / 458",
+    "photo": "https://www.westinghousehs.org/assets/kelley.png",
+    "email": "ekelley@schools.nyc.gov",
+    "phone": "(555) 666-6666"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Amoy Kirlew-Lynch",
+    "role": "Geometry",
+    "bio": "RM 222B",
+    "photo": "https://www.westinghousehs.org/assets/kirlew-lynch.png",
+    "email": "akirlewlynch@schools.nyc.gov",
+    "phone": "(555) 666-6666"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Charisma Obijuru",
+    "role": "Algebra / Geometry",
+    "bio": "RM 154",
+    "email": "cobijoru@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/obijuru.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Aubrey Thomas",
+    "role": "Electrical",
+    "bio": "RM 462 / 458",
+    "email": "athomas116@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/thomas.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Claudia Buccino",
+    "role": "Social Worker / Counselor (12th)",
+    "bio": "RM 154",
+    "email": "cbuccino@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/buccino.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Jovana DeLeon",
+    "role": "Social Worker",
+    "bio": "RM 154",
+    "email": "jdeleon4@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/deleon.png"
+  },
+  {
+    "section": "Special Education & ENL",
+    "name": "Sharron Evans-Muller",
+    "role": "SS / Admin Intern",
+    "bio": "",
+    "email": "sevansmuller2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/evans-muller.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Koren Henry",
+    "role": "Restorative Justice Coordinator",
+    "bio": "RM 160",
+    "email": "khenry8@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/henry.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Mikeline Janvier",
+    "role": "Counselor (10th)",
+    "bio": "RM 154",
+    "email": "mjanvie@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/janvier.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Sonia Jordan",
+    "role": "Social Worker",
+    "bio": "RM 138",
+    "email": "sjordan10@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/jordan.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Jeffrey Grissett",
+    "role": "Family Worker",
+    "bio": "RM 219",
+    "email": "jgrissett@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/grissett.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Aneesha Mohamed",
+    "role": "Counselor (12th)",
+    "bio": "RM 154",
+    "email": "amohamed23@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/mohamed.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Jude Deomampo",
+    "role": "Speech Therapist",
+    "bio": "RM 222",
+    "email": "jdeomampo2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/deomampo.png"
+  },
+  {
+    "section": "School-Based Support Team",
+    "name": "Natalie Rizzo",
+    "role": "Counselor (11th)",
+    "bio": "RM 154",
+    "email": "nrizzo2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/rizzo.png"
+  },
+  {
+    "section": "Foreign Language",
+    "name": "Nathan Campbell",
+    "role": "French",
+    "bio": "RM 235",
+    "email": "ncampbell34@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/campbell.png"
+  },
+  {
+    "section": "Special Education & ENL",
+    "name": "Nicole Branch",
+    "role": "Mathematics",
+    "bio": "RM 312",
+    "email": "nbranch@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/branch.png"
+  },
+  {
+    "section": "Special Education & ENL",
+    "name": "Jonathan Braun",
+    "role": "English Language Arts",
+    "bio": "RM 338 / 206A",
+    "email": "jbraun5@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/braun.png"
+  },
+  {
+    "section": "Special Education & ENL",
+    "name": "Shadaysia Lesane",
+    "role": "ENL",
+    "bio": "RM 388",
+    "email": "slesane@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/lesane.png"
+  },
+  {
+    "section": "Special Education & ENL",
+    "name": "Andrea Ostacher",
+    "role": "Rewards Reading Intervention / ELA 11 / Global 10",
+    "bio": "RM 201A / 204 / 258",
+    "email": "aostach@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/ostacher.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Mackens Casimir",
+    "role": "IT Support",
+    "bio": "RM 352",
+    "email": "mcasimir3@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/casimir.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Eric Foster",
+    "role": "Computer Science",
+    "bio": "RM 354",
+    "email": "efoster4@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/foster.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Jennifer Nenadich",
+    "role": "Culinary Arts",
+    "bio": "RM 252",
+    "email": "jnenadich@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/nenadich.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Richard Owens",
+    "role": "Culinary Arts",
+    "bio": "RM 252",
+    "email": "rowens14@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/owens.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Timothy Robinson",
+    "role": "IT Support",
+    "bio": "RM 354",
+    "email": "trobinson74@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/robinson.png"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Aniya Wiggins",
+    "role": "Computer Science",
+    "bio": "RM 358",
+    "email": "awiggins@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/wiggins.png"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Fritz Cornely",
+    "role": "Mathematics / ELA",
+    "bio": "RM 232",
+    "email": "fcornely2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/cornely.png"
+  },
+  {
+    "section": "English Language Arts",
+    "name": "Parker Dulany",
+    "role": "English",
+    "bio": "RM 233",
+    "email": "pdulany@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/dulany.png"
+  },
+  {
+    "section": "English Language Arts",
+    "name": "Inna Huber",
+    "role": "English / AP Seminar",
+    "bio": "RM 206A",
+    "email": "ihuber2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/huber.png"
+  },
+  {
+    "section": "English Language Arts",
+    "name": "Alila Jerome",
+    "role": "English Language Arts",
+    "bio": "RM 201B / 231",
+    "email": "ajerome2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/jerome.png"
+  },
+  {
+    "section": "English Language Arts",
+    "name": "Bernadette Mikolajczyk",
+    "role": "English / College & Career Prep",
+    "bio": "RM 231",
+    "email": "mikola@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/mikolajczyk.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Roger Bacchus",
+    "role": "Algebra 1 / US History",
+    "bio": "RM 230 / 234",
+    "email": "rbacchus7@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/bacchus.png"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Gerald Eggelston",
+    "role": "Mathematics",
+    "bio": "RM 230",
+    "email": "geggleston@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/eggelston.png"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Deborah Louis-Albert",
+    "role": "Algebra / Geometry",
+    "bio": "RM 205",
+    "email": "dlouisalbert@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/louis-albert.png"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Butler Moncoeur",
+    "role": "Algebra / Pre-Calculus",
+    "bio": "RM 232",
+    "email": "bmoncoe@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/moncoeur.png"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Michelle Persaud",
+    "role": "Algebra / Geometry",
+    "bio": "RM 230",
+    "email": "mpersaud9@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/persaud.png"
+  },
+  {
+    "section": "Physical Education",
+    "name": "Michael Clarke",
+    "role": "Physical Education / Health",
+    "bio": "RM 157",
+    "email": "mclarke2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/clarke.png"
+  },
+  {
+    "section": "Physical Education",
+    "name": "Pasquale Antuofermo",
+    "role": "Physical Education",
+    "bio": "RM 157",
+    "email": "pantuof@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/antuofermo.png"
+  },
+  {
+    "section": "Natural Sciences",
+    "name": "Steve Ligator",
+    "role": "Physics / Chemistry / Environ. Sci.",
+    "bio": "RM 456",
+    "email": "sligator@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/ligator.png"
+  },
+  {
+    "section": "Natural Sciences",
+    "name": "Trevor Moss",
+    "role": "Biology",
+    "bio": "RM 246",
+    "email": "tmoss@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/moss.png"
+  },
+  {
+    "section": "Natural Sciences",
+    "name": "Tunji Olaniyan",
+    "role": "Environ. Sci. / Chemistry",
+    "bio": "RM 312",
+    "email": "tolaniy@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/olaniyan.png"
+  },
+  {
+    "section": "Natural Sciences",
+    "name": "Teena Persaud",
+    "role": "Biology / Environ. Sci.",
+    "bio": "RM 218",
+    "email": "tpersaud10@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/persaud.png"
+  },
+  {
+    "section": "Natural Sciences",
+    "name": "Camiele Steele",
+    "role": "Science",
+    "bio": "RM 201B / 246",
+    "email": "csteele2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/steele.png"
+  },
+  {
+    "section": "Natural Sciences",
+    "name": "Gwenneth Worthy",
+    "role": "Environ. Sci. / College & Career Prep",
+    "bio": "",
+    "email": "gworthy2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/worthy.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Donald Antaky",
+    "role": "AP US / AP World / Global History",
+    "bio": "RM 228",
+    "email": "dantaky@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/antaky.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Melany Bermejo",
+    "role": "US History and AP African American Studies",
+    "bio": "RM 250",
+    "email": "mbermejo3@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/bermejo.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Cole Dushin",
+    "role": "US History",
+    "bio": "RM 236",
+    "email": "cdushin@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/dushin.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Eric Jablon",
+    "role": "Social Studies",
+    "bio": "RM 236",
+    "email": "ejablon3@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/jablon.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Damon Kovelsky",
+    "role": "Global History",
+    "bio": "RM 234",
+    "email": "dkovelsky@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/kovelsky.png"
+  },
+  {
+    "section": "Social Studies",
+    "name": "Caroline Sourial",
+    "role": "Global History / Economics",
+    "bio": "RM 258 / 101",
+    "email": "csourial@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/sourial.png"
+  },
+  {
+    "section": "Paraprofessional Staff",
+    "name": "Marjorie Baptiste",
+    "role": "Paraprofessional",
+    "bio": "",
+    "email": "mbaptiste7@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/baptiste.png"
+  },
+  {
+    "section": "Paraprofessional Staff",
+    "name": "Sharon Semple",
+    "role": "Paraprofessional",
+    "bio": "",
+    "email": "ssemple@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/semple.png"
+  },
+  {
+    "section": "Paraprofessional Staff",
+    "name": "Chantal Shepherd",
+    "role": "Paraprofessional",
+    "bio": "",
+    "email": "cshepherd2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/shepherd.png"
+  },
+  {
+    "section": "Paraprofessional Staff",
+    "name": "Gloria Wallace",
+    "role": "Paraprofessional",
+    "bio": "",
+    "email": "gwallace@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/wallace.png"
+  },
+  {
+    "section": "Paraprofessional Staff",
+    "name": "Janine Weekes",
+    "role": "Paraprofessional",
+    "bio": "",
+    "email": "jweekes2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/weekes.png"
+  },
+  {
+    "section": "English Language Arts",
+    "name": "Emory Johnson-O'Connor",
+    "role": "English",
+    "bio": "RM 201A",
+    "email": "ejohnsonoconnor@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/johnson-oconnor.png"
+  }
 ]
