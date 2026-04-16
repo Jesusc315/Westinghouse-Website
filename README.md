@@ -1,0 +1,2 @@
+# Westinghouse-Website
+Static Version
