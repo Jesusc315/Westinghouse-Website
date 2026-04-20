@@ -202,7 +202,7 @@
   {
     "section": "School-Based Support Team",
     "name": "Charisma Obijuru",
-    "role": "Senior Advisor",
+    "role": "Counselor(9th)",
     "bio": "RM 222B",
     "email": "cobijuru@schools.nyc.gov",
     "photo": "https://www.westinghousehs.org/assets/obijuru.png"
@@ -237,7 +237,7 @@
     "role": "Restorative Justice Coordinator",
     "bio": "RM 160",
     "email": "khenry8@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/henry.png"
+    "photo": "https://www.westinghousehs.org/assets/khenry.png"
   },
   {
     "section": "School-Based Support Team",
@@ -253,7 +253,7 @@
     "role": "Social Worker",
     "bio": "RM 138",
     "email": "sjordan10@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/jordan.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "School-Based Support Team",
@@ -277,7 +277,7 @@
     "role": "Speech Therapist",
     "bio": "RM 222",
     "email": "jdeomampo2@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/deomampo.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "School-Based Support Team",
@@ -288,68 +288,20 @@
     "photo": "https://www.westinghousehs.org/assets/rizzo.png"
   },
   {
-    "section": "English Language Arts",
-    "name": "Eleonora Berger",
-    "role": "AP Eng. Lit. / Grammar for Writing",
-    "bio": "RM 244",
-    "email": "eberger10@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/berger.png"
-  },
-  {
-    "section": "Career & Technical Education",
-    "name": "Everett Kelley",
-    "role": "Electrical",
-    "bio": "RM 366 / 458",
-    "email": "ekelley@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/kelley.png"
-  },
-  {
-    "section": "Mathematics",
-    "name": "Amoy Kirlew-Lynch",
-    "role": "Geometry",
-    "bio": "RM 222B",
-    "email": "akirlewlynch@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/kirlew-lynch.png"
-  },
-  {
-    "section": "Mathematics",
-    "name": "Charisma Obijuru",
-    "role": "Algebra / Geometry",
-    "bio": "RM 154",
-    "email": "cobijoru@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/obijuru.png"
-  },
-  {
-    "section": "Career & Technical Education",
-    "name": "Aubrey Thomas",
-    "role": "Electrical",
-    "bio": "RM 462 / 458",
-    "email": "athomas116@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/thomas.png"
-  },
-  {
-    "section": "Special Education & ENL",
-    "name": "Sharron Evans-Muller",
-    "role": "SS / Admin Intern",
-    "bio": "",
-    "email": "sevansmuller2@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/evans-muller.png"
-  },
-  {
     "section": "Foreign Language",
     "name": "Nathan Campbell",
     "role": "French",
     "bio": "RM 235",
     "email": "ncampbell34@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/campbell.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
-  {
+    {
     "section": "Special Education & ENL",
     "name": "Nicole Branch",
     "role": "Mathematics",
     "bio": "RM 312",
     "email": "nbranch@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/branch.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Special Education & ENL",
@@ -361,11 +313,19 @@
   },
   {
     "section": "Special Education & ENL",
+    "name": "Sharron Evans-Muller",
+    "role": "SS / Admin Intern",
+    "bio": "",
+    "email": "sevansmuller2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
+  },
+  {
+    "section": "Special Education & ENL",
     "name": "Shadaysia Lesane",
     "role": "ENL",
     "bio": "RM 388",
     "email": "slesane@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/lesane.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Special Education & ENL",
@@ -381,7 +341,7 @@
     "role": "IT Support",
     "bio": "RM 352",
     "email": "mcasimir3@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/casimir.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Career & Technical Education",
@@ -390,6 +350,14 @@
     "bio": "RM 354",
     "email": "efoster4@schools.nyc.gov",
     "photo": "https://www.westinghousehs.org/assets/foster.png"
+  },
+    {
+    "section": "Career & Technical Education",
+    "name": "Everett Kelley",
+    "role": "Electrical",
+    "bio": "RM 366 / 458",
+    "email": "ekelley@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/kelley.png"
   },
   {
     "section": "Career & Technical Education",
@@ -405,7 +373,7 @@
     "role": "Culinary Arts",
     "bio": "RM 252",
     "email": "rowens14@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/owens.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Career & Technical Education",
@@ -413,7 +381,15 @@
     "role": "IT Support",
     "bio": "RM 354",
     "email": "trobinson74@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/robinson.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
+  },
+  {
+    "section": "Career & Technical Education",
+    "name": "Aubrey Thomas",
+    "role": "Electrical",
+    "bio": "RM 462 / 458",
+    "email": "athomas116@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Career & Technical Education",
@@ -421,10 +397,18 @@
     "role": "Computer Science",
     "bio": "RM 358",
     "email": "awiggins@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/wiggins.png"
+    "photo": "https://www.westinghousehs.org/assets/awiggins.png"
   },
   {
-    "section": "Mathematics",
+    "section": "English Language Arts",
+    "name": "Eleonora Berger",
+    "role": "AP Eng. Lit. / Grammar for Writing",
+    "bio": "RM 244",
+    "email": "eberger10@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/berger.png"
+  },
+  { 
+    "section":"English Language Arts",
     "name": "Fritz Cornely",
     "role": "Mathematics / ELA",
     "bio": "RM 232",
@@ -457,6 +441,14 @@
   },
   {
     "section": "English Language Arts",
+    "name": "Emory Johnson-O'Connor",
+    "role": "English",
+    "bio": "RM 201A",
+    "email": "ejohnsonoconnor@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
+  },
+  {
+    "section": "English Language Arts",
     "name": "Bernadette Mikolajczyk",
     "role": "English / College & Career Prep",
     "bio": "RM 231",
@@ -464,20 +456,36 @@
     "photo": "https://www.westinghousehs.org/assets/mikolajczyk.png"
   },
   {
-    "section": "Social Studies",
+   "section": "Mathematics",
     "name": "Roger Bacchus",
     "role": "Algebra 1 / US History",
-    "bio": "RM 230 / 234",
+    "bio": "RM230 / 234",
     "email": "rbacchus7@schools.nyc.gov",
     "photo": "https://www.westinghousehs.org/assets/bacchus.png"
   },
   {
     "section": "Mathematics",
+    "name": "Fritz Cornely",
+    "role": "Mathematics / ELA",
+    "bio": "RM 232",
+    "email": "fcornely2@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/cornely.png"
+  },
+{
+    "section": "Mathematics",
     "name": "Gerald Eggelston",
     "role": "Mathematics",
     "bio": "RM 230",
     "email": "geggleston@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/eggelston.png"
+    "photo": "https://www.westinghousehs.org/assets/eggleston.png"
+  },
+  {
+    "section": "Mathematics",
+    "name": "Amoy Kirlew-Lynch",
+    "role": "Geometry",
+    "bio": "RM 222B",
+    "email": "akirlewlynch@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/lynch.png"
   },
   {
     "section": "Mathematics",
@@ -497,13 +505,21 @@
   },
   {
     "section": "Mathematics",
+    "name": "Charisma Obijuru",
+    "role": "Algebra / Geometry",
+    "bio": "RM 154",
+    "email": "cobijoru@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/obijuru.png"
+  },
+  {
+    "section": "Mathematics",
     "name": "Michelle Persaud",
     "role": "Algebra / Geometry",
     "bio": "RM 230",
     "email": "mpersaud9@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/persaud.png"
+    "photo": "https://www.westinghousehs.org/assets/mpersaud.png"
   },
-  {
+    {
     "section": "Physical Education",
     "name": "Michael Clarke",
     "role": "Physical Education / Health",
@@ -517,7 +533,7 @@
     "role": "Physical Education",
     "bio": "RM 157",
     "email": "pantuof@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/antuofermo.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Natural Sciences",
@@ -533,7 +549,7 @@
     "role": "Biology",
     "bio": "RM 246",
     "email": "tmoss@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/moss.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Natural Sciences",
@@ -549,7 +565,7 @@
     "role": "Biology / Environ. Sci.",
     "bio": "RM 218",
     "email": "tpersaud10@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/persaud.png"
+    "photo": "https://www.westinghousehs.org/assets/tpersaud.png"
   },
   {
     "section": "Natural Sciences",
@@ -565,9 +581,9 @@
     "role": "Environ. Sci. / College & Career Prep",
     "bio": "",
     "email": "gworthy2@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/worthy.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
-  {
+    {
     "section": "Social Studies",
     "name": "Donald Antaky",
     "role": "AP US / AP World / Global History",
@@ -575,13 +591,26 @@
     "email": "dantaky@schools.nyc.gov",
     "photo": "https://www.westinghousehs.org/assets/antaky.png"
   },
+  
+  {
+    "section": "Social Studies",
+    "name": "Roger Bacchus",
+    "role": "Algebra 1 / US History",
+    "bio": "RM 230 / 234",
+    "email": "rbacchus7@schools.nyc.gov",
+    "photo": "https://www.westinghousehs.org/assets/bacchus.png"
+  },
+  
+  
+  
+
   {
     "section": "Social Studies",
     "name": "Melany Bermejo",
     "role": "US History and AP African American Studies",
     "bio": "RM 250",
     "email": "mbermejo3@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/bermejo.png"
+    "photo": "https://www.westinghousehs.org/assets/gwhs-logo.webp"
   },
   {
     "section": "Social Studies",
@@ -589,7 +618,7 @@
     "role": "US History",
     "bio": "RM 236",
     "email": "cdushin@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/dushin.png"
+    "photo": "https://www.westinghousehs.org/assets/gwhs-logo.webp"
   },
   {
     "section": "Social Studies",
@@ -605,7 +634,7 @@
     "role": "Global History",
     "bio": "RM 234",
     "email": "dkovelsky@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/kovelsky.png"
+    "photo": "https://www.westinghousehs.org/assets/gwhs-logo.webp"
   },
   {
     "section": "Social Studies",
@@ -621,7 +650,7 @@
     "role": "Paraprofessional",
     "bio": "",
     "email": "mbaptiste7@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/baptiste.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Paraprofessional Staff",
@@ -629,7 +658,7 @@
     "role": "Paraprofessional",
     "bio": "",
     "email": "ssemple@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/semple.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Paraprofessional Staff",
@@ -637,7 +666,7 @@
     "role": "Paraprofessional",
     "bio": "",
     "email": "cshepherd2@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/shepherd.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Paraprofessional Staff",
@@ -645,7 +674,7 @@
     "role": "Paraprofessional",
     "bio": "",
     "email": "gwallace@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/wallace.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   },
   {
     "section": "Paraprofessional Staff",
@@ -653,14 +682,7 @@
     "role": "Paraprofessional",
     "bio": "",
     "email": "jweekes2@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/weekes.png"
-  },
-  {
-    "section": "English Language Arts",
-    "name": "Emory Johnson-O'Connor",
-    "role": "English",
-    "bio": "RM 201A",
-    "email": "ejohnsonoconnor@schools.nyc.gov",
-    "photo": "https://www.westinghousehs.org/assets/johnson-oconnor.png"
+    "photo": "https://www.westinghousehs.org/images/index-page/gwhs-logo.webp"
   }
+  
 ]
