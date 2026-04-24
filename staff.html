@@ -106,12 +106,12 @@
                   <a href="mailto:${staff.email}" class="btn btn-link p-0 me-2" title="Email ${staff.name}">
                     <img src="https://www.westinghousehs.org/images/icons/envelope-at.svg" alt="email" style="width:20px">
                   </a>
-                  <a href="https://calendly.com/m${(staff.email || '').split('@')[0]}/parent-teacher-conference-fall-2025" class="btn btn-link p-0" target="_blank" rel="noreferrer" title="Schedule">
+                  ${staff.calandly ? `<a href="${staff.calandly}" class="btn btn-link p-0" target="_blank" rel="noreferrer" title="Schedule">
                     <img src="https://www.westinghousehs.org/images/icons/calendar3.svg" alt="calendar" style="width:20px">
-                  </a>
+                  </a>` : ''}
                 </div>
                 <p class="mb-0" style="font-size:0.85rem;"><a href="mailto:${staff.email}">${staff.email}</a></p>
-                <p class="roomNum mb-0" style="font-size:0.85rem;">${staff.bio || ''}</p>
+                <p class="roomNum mb-0" style="font-size:0.85rem;">${staff.room|| ''}</p>
                 <p class="mb-0" style="font-size:0.85rem;">Phone: <a href="tel:${staff.phone}">${staff.phone || ''}</a></p>
               </div>
             </div>
