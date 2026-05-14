@@ -1,0 +1,74 @@
+/* Staff-specific styles can go here */
+
+.bg-black {
+  background-color: #000;
+  color: #fff;
+}
+
+.gold-bg {
+  background-color: var(--clr-neutral-400);
+  color: #000;
+}
+
+.blue-bg {
+  background-color: var(--clr-neutral-600);
+  color: #fff;
+}
+
+.department .card {
+  width: 355px;
+  height: 164.6px !important;
+  font-family: Oxygen, sans-serif;
+  border: none;
+}
+
+.department .card .row {
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.department .card .col-9 {
+  align-self: flex-start;
+}
+
+.department .card .col-3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.department .card-title {
+  color: #000;
+  font-size: 1.1rem;
+  margin-top: .4rem;
+  margin-bottom: .25rem;
+}
+
+.department .card-body {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.department .card-body p {
+  font-size: .8rem;
+  margin-bottom: .25rem;
+}
+
+.department .row .btn {
+  padding: 5px;
+  margin: 0;
+  width: 40px;
+  border: .25px solid rgba(252,186,3,.3);
+}
+
+.room-lift {
+  margin-top: -5px;
+  font-size: .4rem;
+  margin-bottom: 0;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  background-color: #fff;
+}
